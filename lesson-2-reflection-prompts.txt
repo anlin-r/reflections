@@ -24,6 +24,8 @@ Branches are helpful so changes do not have to be made to the master branch, so 
 
 How do the diagrams help you visualize the branch structure?
 
+The diagram help me by understanding how you can see other commit, and how to create new branches with commits in them. 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
