@@ -1,4 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 You would want to use a remote repository when working on a project that involves several people. Also you can use a 
-remote repository so you can have your code or files saved remote instead of just locally because things can happen. 
+remote repository so you can have your code or files saved remote instead of just locally because things can happen. When making it public. 
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You want to use remote repository because you don't always want your work public and GitHub might not always have the commit right and update correctly base off your local repository. 
