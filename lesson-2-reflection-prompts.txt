@@ -29,5 +29,8 @@ The diagram help me by understanding how you can see other commit, and how to cr
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+
+You get the two branches to deployed in the master branch so everyone can see it work, to show that these two branches are coming together to create a new branch with the information of the two branches.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
