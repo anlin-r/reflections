@@ -18,3 +18,10 @@ Forks is just a clone GitHub makes for you on their own machines that allow you 
 Clones can that any repository and clone them to any server the person chooses. 
 
 You can use branches when testing, fixing or adding something new and don't want the master code to be change while working on the computer. Fork can be use when needing to use someone else repository. Cloning can be use whenever you need the repository to do your project. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is beneficial to have a copy of the last known state of the remote stored locally so you can be update when editing your files offline. 
+
+
