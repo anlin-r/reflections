@@ -29,4 +29,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I guess you would have to email your code or google -drive or use a different version-control system. This would be harder because that can take time check email and what be as efficient. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+
+When you are testing or creating a new feature and your still working on it. Working on a branch can keep your master for messing up and being confusing. Working on just the master can keep you from being behind and not have to do some much pushing and pulling. 
 
